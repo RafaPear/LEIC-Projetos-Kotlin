@@ -56,7 +56,7 @@ Para compilar e executar os programas, utilize os comandos abaixo no terminal:
    ```bash  
    kotlin nomeDoArquivo.class
 
-Substitua ` ```bash nomeDoArquivo ` pelo nome do arquivo que deseja compilar e/ou executar.
+Substitua ` nomeDoArquivo ` pelo nome do arquivo que deseja compilar e/ou executar.
 
 ## 📄Licença
 
