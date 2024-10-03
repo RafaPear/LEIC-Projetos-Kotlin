@@ -1,6 +1,6 @@
 # 📚 Projetos Universitários em Kotlin
 
-Este repositório contém uma coleção de projetos desenvolvidos em **Kotlin** para fins da cadeira de **Programação** da licenciatura em **Engenharia Informática e Computadores**. Cada projeto aborda diferentes conceitos de programação e oferece soluções práticas para problemas comuns. Teste
+Este repositório contém uma coleção de projetos desenvolvidos em **Kotlin** para fins da cadeira de **Programação** da licenciatura em **Engenharia Informática e Computadores**. Cada projeto aborda diferentes conceitos de programação e oferece soluções práticas para problemas comuns.
 
 ## 📖 Índice
 
