@@ -2,6 +2,22 @@
 
 Este repositório contém uma coleção de projetos desenvolvidos em **Kotlin** para fins da cadeira de **Programação** da licenciatura em **Engenharia Informática e Computadores**. Cada projeto aborda diferentes conceitos de programação e oferece soluções práticas para problemas comuns.
 
+## 📖 Índice
+
+- [Introdução](#introdução)
+- [Estrutura do Repositório](#estrutura-do-repositório)
+- [Projetos](#projetos)
+  - [Projeto 1: Conversão de Celsius para Fahrenheit](#projeto-1-conversão-de-celsius-para-fahrenheit)
+  - [Projeto 2: Conversão de Segundos](#projeto-2-conversão-de-segundos)
+  - [Projeto 3: Soma dos Dígitos](#projeto-3-soma-dos-dígitos)
+  - [Projeto 4: Comparação de Números](#projeto-4-comparação-de-números)
+  - [Projeto 5: Comparação de Três Números](#projeto-5-comparação-de-três-números)
+  - [Projeto 6: Cálculo de Troco](#projeto-6-cálculo-de-troco)
+  - [Projeto 7: Calculadora Básica](#projeto-7-calculadora-básica)
+- [Compilação e Execução](#compilação-e-execução)
+- [Licença](#licença)
+
+
 ## 📁 Estrutura do Repositório
 
 - **Projeto 1**: Conversão de Celsius para Fahrenheit e vice-versa.
@@ -41,3 +57,9 @@ Para compilar e executar os programas, utilize os comandos abaixo no terminal:
    kotlin nomeDoArquivo.class
 
 Substitua ` ```bash nomeDoArquivo ` pelo nome do arquivo que deseja compilar e/ou executar.
+
+## 📄Licença
+
+Este projeto está licenciado sob a Licença MIT. Veja os termos completos abaixo:
+
+[Licença](LICENSE.md)
