@@ -23,7 +23,6 @@ Este repositório contém uma coleção de projetos desenvolvidos em **Kotlin** 
 - **Projeto 1**: Conversão de Celsius para Fahrenheit e vice-versa.
   - `CtoFconverter.kt`: Versão simples do conversor.
   - `FtoC.kt`: Programa que converte Fahrenheit para Celsius.
-  - `fartocel.txt`: Um arquivo de texto relacionado ao projeto.
   
 - **Projeto 2**: Conversão de segundos para horas, minutos e segundos restantes.
   - `timeConverter1.0.kt`: Primeira versão do conversor de tempo.
